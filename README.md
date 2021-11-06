@@ -1,4 +1,5 @@
-## Computational Text Analysis for Communication Research at the National University of Singapore
+## CACTUS: Computational Analysis for Communication on Text, User-Generated content, and Social Networks
+## Taught in Winter 2021 at the National University of Singapore
 **Forked froom COMM313 Spring 2018 Annenberg School for Communication, University of Pennsylvania**
 
 **Professor**: Dr. Kokil Jaidka
