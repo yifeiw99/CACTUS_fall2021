@@ -1,6 +1,5 @@
 ## CACTUS: Computational Analysis for Communication on Text, User-Generated content, and Social Networks
 ## Taught in Winter 2021 at the National University of Singapore
-**Forked froom COMM313 Spring 2018 Annenberg School for Communication, University of Pennsylvania**
 
 **Professor**: Dr. Kokil Jaidka
 **Email**: jaidka@nus.edu.sg
@@ -27,6 +26,11 @@ in which students will work through programming exercises using Jupyter notebook
 
 ### [Course schedule and syllabus](syllabus.md)
 
+
+**Forked from COMM313 Spring 2018 Annenberg School for Communication, University of Pennsylvania**
+
 Big props to:
+
 **Professor**: Dr. Matt O'Donnell
+
 **Email**: mbod@asc.upenn.edu
