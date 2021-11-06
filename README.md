@@ -1,8 +1,8 @@
-## COMM 313: Computational Text Analysis for Communication Research
-**Spring 2018 Annenberg School for Communication, University of Pennsylvania**
+## Computational Text Analysis for Communication Research at the National University of Singapore
+**Forked froom COMM313 Spring 2018 Annenberg School for Communication, University of Pennsylvania**
 
-**Professor**: Dr. Matt O'Donnell
-**Email**: mbod@asc.upenn.edu
+**Professor**: Dr. Kokil Jaidka
+**Email**: jaidka@nus.edu.sg
 
 ## Course Description, Goals and Objectives
 
@@ -25,3 +25,7 @@ in which students will work through programming exercises using Jupyter notebook
 
 
 ### [Course schedule and syllabus](syllabus.md)
+
+Big props to:
+**Professor**: Dr. Matt O'Donnell
+**Email**: mbod@asc.upenn.edu
