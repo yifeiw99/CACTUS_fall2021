@@ -11,11 +11,10 @@ organize, analyze and present textual data by using automated tools toward a fin
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of textual data and become familiar with one of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
-* This course will provide an introduction to Python programming for collecting, preparing and analyzing text data from various sources including
+* This course will be project-based and will provide an introduction to Python programming for collecting, preparing and analyzing text data from various sources including
 social media (e.g. Twitter), weblogs, online news media and various publicly available archives (e.g. presidential speech archive, congressional sessions).
 
-* Each week one session will be in lecture and seminar form and provide background for the theory and techniques and the second will be a lab session
-in which students will work through programming exercises using Jupyter notebooks [A web-based programming environment well suited for data science and class-based assignments].
+* Each week, there will be one tutorial over zoom in which students will report their progress as they work through programming exercises using Jupyter notebooks [A web-based programming environment well suited for data science and class-based assignments].
 
 * By completing this course students will: 
 	* gain an understanding of relevant linguistic concepts for the analysis of text
