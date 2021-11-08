@@ -76,6 +76,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 3 - What is a corpus?
 **Readings**: _Baker Chs. 1&2_; _NLTK Book Ch. 1 (sections 1, 2 & 4 )_ http://www.nltk.org/book/ch01.html  
+
 **Lab session 2**: Reading files. Listing directories. Manipulating strings. Loops and Conditions.
 
 ### Week 4 - Frequency lists and Concordance Analysis
@@ -93,6 +94,7 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Using APIs to compile a corpus (e.g. Twitter)
 	  * Web scraping and crawling
     * **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+
 **Lab session 4**: Extracting text from web pages. Downloading data. Functions.
 
 ### Week 6 - Collocation
@@ -101,6 +103,7 @@ A central goal of this class is to help students begin to develop programming sk
 	* Comparing words through collocation
 	* Collocation profiles
     * **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
+
 **Lab session 5**: Data structures. Visualization. Functions.
 
 ### Week 7 - Keyness
@@ -117,10 +120,12 @@ A central goal of this class is to help students begin to develop programming sk
   	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
   	* Example Applications
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
+
 **Lab session 7**: Using NLTK; NLP Pipeline
 
 ### Week 9 - NLP: Affect and Sentiment analysis #1
 **Measuring emotion in text**
+
 **Lab session 8**: Using affect lexicons
 
 ### Week 11 - NLP: Affect and Sentiment analysis #2
@@ -135,9 +140,11 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 12 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 **Identifying actors and actions in text**
   	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
+
 **Lab session 10**: NER and parsed corpora
 
 ### Week 13 - NLP: Topic models 
 **Discovering clusters of words in text collections** 
+
 **Lab session 11**: Topic models and visualization
 
