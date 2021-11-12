@@ -64,87 +64,73 @@ A central goal of this class is to help students begin to develop programming sk
 
 * **N.B.** - This is a tentative schedule that is subject to change
 
-### Week 1 - Overview
-**Course overview and Installation**
 
-### Week 2 - Introduction
-**Introduction to Corpus Linguistics and NLP** 
-	* What are corpus linguistics and natural language processing?
-	* Counting words and finding patterns in language
+### Week 0 - Orientation
 
-**Lab session 1**: First scripts for text analysis
+**Orientation day prerequisites (Do by Nov 13):**
+Before class, please do Step 1 and 2. It should take you about 2-3 hours at the most. If you have any trouble in these steps, we will discuss it in the tutorial
 
-### Week 3 - What is a corpus?
-**Readings**: _Baker Chs. 1&2_; _NLTK Book Ch. 1 (sections 1, 2 & 4 )_ http://www.nltk.org/book/ch01.html  
+**1.	Install Python, Anaconda, Jupyter Notebook**
+Follow one of the options:
+•	https://www.youtube.com/watch?v=AuTkAWEa06E&ab_channel=HongLy
+or
+•	https://test-jupyter.readthedocs.io/en/latest/install.html
 
-**Lab session 2**: Reading files. Listing directories. Manipulating strings. Loops and Conditions.
 
-### Week 4 - Frequency lists and Concordance Analysis
-**How and what to count**
-	* Word and N-Gram lists
-	* Dispersion
-	* Using concordances (Keyword-in-context = KWIC) to find patterns and meaning
-    - __Readings__: _Baker Chs. 3&4_; _NLTK Book Ch. 2 (esp. sections 1,2&4 )_ http://www.nltk.org/book/ch02.html
+**2.	Set up Twitter data collection requirements**
 
-**Lab session 3**: Creating frequency distributions and KWIC displays. Visualization techniques. Filtering lists.
+a.	Read: 
 
-### Week 5 - Finding, building and using corpora
-**Corpus compilation**
-    * Extracting text from structured data
-	  * Using APIs to compile a corpus (e.g. Twitter)
-	  * Web scraping and crawling
-    * **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+i.	https://towardsdatascience.com/getting-started-with-data-collection-using-twitter-api-v2-in-less-than-an-hour-600fbd5b5558
 
-**Lab session 4**: Extracting text from web pages. Downloading data. Functions.
+ii.	https://medium.com/geekculture/how-to-get-twitter-data-with-tweepy-4663fbc8b90b
 
-### Week 6 - Collocation
-**Words _have_ friends**
-  * Discovering meaning through context
-	* Comparing words through collocation
-	* Collocation profiles
-    * **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
+b.	Explore the process to apply for a Twitter developer key following the reading linked in 2.a.ii. If you don’t have a Twitter developer account yet, write up an imaginary research project like this: https://www.dropbox.com/s/2b735yqa1h6utbt/Twitter_example_application.pdf?dl=0
 
-**Lab session 5**: Data structures. Visualization. Functions.
+i.	If you are clear on your research project already, then you can apply for a Twitter Developer account. Be as detailed as possible in describing your research project, and clarify your university and who is your mentor. Link their Google Scholar profile: https://developer.twitter.com/en/apply-for-access
 
-### Week 7 - Keyness
-**Discovering distinctive vocabulary**
-  	* 'Aboutness' in text
-  	* Kinds of comparison
-  	* Statistical significance and association
-    * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
-**Lab session 6**
+ii.	If you are not clear, then just start drafting out your application and we will talk about it in class
 
-### Week 8 - Introduction to NLP
-**Core concepts and techniques**
-    * NLP pipeline
-  	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
-  	* Example Applications
-    * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
-**Lab session 7**: Using NLTK; NLP Pipeline
+**3.	In class**
 
-### Week 9 - NLP: Affect and Sentiment analysis #1
-**Measuring emotion in text**
+a.	We will go over your problems
 
-**Lab session 8**: Using affect lexicons
+b.	We will simply explore: (note that this is restricted use for only the students enrolled in this tutorial. Please do not share further or use without permission)
+Isentia Workbench: https://workbench.brandtology.com/
 
-### Week 11 - NLP: Affect and Sentiment analysis #2
-**Sentiment classification**
-  	* Supervised machine learning
-  	* Building a training corpus
-  	* Measuring accuracy
-    * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
-**Lab session 9**: Building a sentiment classifier
 
-### Week 12 - NLP: Named Entity Recognition (NER): Who, what, when and where?
-**Identifying actors and actions in text**
-  	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
+### Week 1 - APIS
+Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
 
-**Lab session 10**: NER and parsed corpora
+**1.	Set up YouTube data collection requirements**
 
-### Week 13 - NLP: Topic models 
-**Discovering clusters of words in text collections** 
+a.	Read: https://towardsdatascience.com/how-to-build-your-own-dataset-of-youtube-comments-39a1e57aade 
+Follow the steps in the article in Step 1 until Step 7
 
-**Lab session 11**: Topic models and visualization
+b.	Get a YouTube API key
+
+c.	Install the YouTube python package
+
+**2.	Set up Reddit data collection requirements**
+
+a.	Read and install the packages mentioned in https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8
+
+**3.	Set up newspaper API collection requirements**
+
+a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
+
+
+**5.	Create your own documentation**
+
+a. Choose the data source you want to work with, e.g., TikTok, Weibo
+
+b. Create a list of resources for this data source (links to how to apply for an API key, which python packages to use, existing code repositorities) 
+
+c. If one already exists, use it but build on it.
+
+**4.	Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
+
+
 
