@@ -135,16 +135,19 @@ c. If one already exists, use it but build on it.
 **5. Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
 
 
-
+**Read**
+Mukerjee, S., & Gonzl̀ez-Bailn̤, S. (2020). Social Media Data: Quantitative Analysis. SAGE Publications Limited. Available here: 
 
 
 ### Week 2 - APIs continued
 
 **1. Corpus compilation**
-    * Extracting text from structured data
-	  * Using APIs to compile a corpus (e.g. Twitter)
-	  * Web scraping and crawling
-    * **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+
+a. Extracting text from structured data
+
+b. Using APIs to compile a corpus (e.g. Twitter)
+
+c. Readings: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 	
 
 **2. Write code to read json files and write CSV files (DUE WEEK 4)**
