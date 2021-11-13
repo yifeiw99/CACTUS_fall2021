@@ -104,7 +104,9 @@ Isentia Workbench: https://workbench.brandtology.com/
 ### Week 1 - APIS
 Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
 
-**1.	Set up YouTube data collection requirements**
+
+
+**1. Set up YouTube data collection requirements**
 
 a.	Read: https://towardsdatascience.com/how-to-build-your-own-dataset-of-youtube-comments-39a1e57aade 
 Follow the steps in the article in Step 1 until Step 7
@@ -113,16 +115,16 @@ b.	Get a YouTube API key
 
 c.	Install the YouTube python package
 
-**2.	Set up Reddit data collection requirements**
+**2. Set up Reddit data collection requirements**
 
 a.	Read and install the packages mentioned in https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8
 
-**3.	Set up newspaper API collection requirements**
+**3. Set up newspaper API collection requirements**
 
 a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
 
 
-**5.	Create your own documentation**
+**4.	Create your own documentation (DUE WEEK 3) **
 
 a. Choose the data source you want to work with, e.g., TikTok, Weibo
 
@@ -130,7 +132,29 @@ b. Create a list of resources for this data source (links to how to apply for an
 
 c. If one already exists, use it but build on it.
 
-**4.	Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
+**5.	Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
 
 
 
+
+
+### Week 2 - APIs continued
+
+**1. Corpus compilation**
+    * Extracting text from structured data
+	  * Using APIs to compile a corpus (e.g. Twitter)
+	  * Web scraping and crawling
+    * **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+	
+
+**2. Write code to read json files and write CSV files (DUE WEEK 4)**
+
+a. Use the "Common How Tos" at https://thepythonguru.com/
+
+
+	
+**3. First-time Python user? Start here**
+
+a. Watch the video (30 minutes): https://www.youtube.com/watch?v=Z1Yd7upQsXY&ab_channel=CSDojo
+
+b. Bookmark this, do one chapter a week: https://python.swaroopch.com/
