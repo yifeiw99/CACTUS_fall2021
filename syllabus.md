@@ -103,7 +103,7 @@ Isentia Workbench: https://workbench.brandtology.com/
 
 ### Week 1 - APIS
 Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
-
+Please create a GitHub accounts.
 
 
 **1. Set up YouTube data collection requirements**
