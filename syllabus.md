@@ -124,7 +124,7 @@ a.	Read and install the packages mentioned in https://medium.com/mcd-unison/usin
 a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
 
 
-**4.	Create your own documentation (DUE WEEK 3) **
+**4. Create your own documentation (DUE WEEK 3)**
 
 a. Choose the data source you want to work with, e.g., TikTok, Weibo
 
@@ -132,7 +132,7 @@ b. Create a list of resources for this data source (links to how to apply for an
 
 c. If one already exists, use it but build on it.
 
-**5.	Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
+**5. Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
 
 
 
