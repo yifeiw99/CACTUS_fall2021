@@ -65,3 +65,10 @@ what we saw in crowdtangle: you make a request that looks like a url and you pas
 
 in twitter: you authenticate yourself separately and then you pass it with the url info. this part remains the same.
 
+
+### ERRORS encountered:
+facebook access token
+crowdtangle user ids
+youtube access token
+
+
