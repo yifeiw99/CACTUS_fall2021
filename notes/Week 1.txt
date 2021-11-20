@@ -1,0 +1,67 @@
+https://developers.facebook.com/tools/explorer/
+https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/user
+https://www.crowdtangle.com/
+
+
+Crowdtangle: gives researchers access to some parts of public Facebook data.
+Conditions: pages with at least 25000 followers etc...
+https://help.crowdtangle.com/en/articles/1140930-what-data-is-crowdtangle-tracking
+
+
+Requests:
+### https://github.com/CrowdTangle/API/wiki/Posts
+### https://help.crowdtangle.com/en/articles/1189612-crowdtangle-api
+URL (search, by account)
+Access token
+Parameters: required, optional
+
+
+Search
+url:  https://api.crowdtangle.com/posts
+access token: 
+searchTerm: stayhomeforsg
+startDate
+endDate
+count
+
+#########
+
+1. First request that we make: 
+https://api.crowdtangle.com/posts/search?token=eOIiMeZtsf5dboADnyM0m0pmu2fOUK09QEbUtD4Y&sortBy=date&startDate=2019-12-14T00:00:00&endDate=2020-02-14&searchTerm=shaheenbagh&count=100
+
+2.(response said, next page is: https://api.crowdtangle.com/posts/search?token=eOIiMeZtsf5dboADnyM0m0pmu2fOUK09QEbUtD4Y&sortBy=date&endDate=2020-02-14&startDate=2019-12-14T00:00:00&searchTerm=shaheenbagh&searchField=TEXT_FIELDS_AND_IMAGE_TEXT&platforms=facebook,instagram&count=100&offset=100
+
+
+3. we use this as our next request. so we tell the code to run the new request.
+
+but the next response also has a next page:
+https://api.crowdtangle.com/posts/search?token=eOIiMeZtsf5dboADnyM0m0pmu2fOUK09QEbUtD4Y&sortBy=date&endDate=2020-02-14&startDate=2019-12-14T00:00:00&searchTerm=shaheenbagh&searchField=TEXT_FIELDS_AND_IMAGE_TEXT&platforms=facebook,instagram&count=100&offset=200
+
+
+4. we use this as our next request. so we tell the code to run the new request. and it goes on.
+
+
+###############
+dictionary in python: has key-value structure like json
+{"key1": "Value1", "key2": value}
+
+CSV: comma separated values
+file we can open in microsoft excel
+it is a nice file we can explore with our eyes as well as with code.
+
+USER LOOKUP
+
+straits times
+url: https://api.crowdtangle.com/posts/search
+inAccountIds:
+access token: 
+searchTerm: i
+startDate
+endDate
+count
+
+
+what we saw in crowdtangle: you make a request that looks like a url and you pass it.
+
+in twitter: you authenticate yourself separately and then you pass it with the url info. this part remains the same.
+
