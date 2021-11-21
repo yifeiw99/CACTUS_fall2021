@@ -145,14 +145,12 @@ Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Wi
 
 a. Explore the Twitter and Facebook notebooks
 
-b. Using APIs to compile a corpus (e.g. Twitter)
+b. Using APIs to compile a corpus (e.g. Tweets by a set of users, All Facebook posts by a news outlet)
 
 c. Explore the part of code in the notebooks that converts JSON to CSV. Can you try to add more fields to be written into the csv in to the "append_to_csv" command?
 
 
-
-
-**2. Set up newspaper API and think about what data you want to collect**
+**2. Set up newspapers APIs and think about what data you want to collect**
 
 a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
 
@@ -169,12 +167,14 @@ e. Try out all the notebooks: N1, N2, MC00a, MC00b, MC01
 a.	Answer the following questions, which you will address in your next week as you collect data (taken from this week's reading!): 
 
 Research questions: 
+
 i. What are your research questions and hypotheses? Is this an interesting problem to study? Why?
 
 ii. Why is computational text analysis necessary or valuable for answering the research questions?
 
 
 Data:
+
 i. What kind of data do you need to answer these questions? For what time period? From how many sources? How will you get it?
 
 ii. Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does
