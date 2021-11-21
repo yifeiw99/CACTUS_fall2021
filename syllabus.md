@@ -71,10 +71,11 @@ A central goal of this class is to help students begin to develop programming sk
 Before class, please do Step 1 and 2. It should take you about 2-3 hours at the most. If you have any trouble in these steps, we will discuss it in the tutorial
 
 	**1.	Install Python, Anaconda, Jupyter Notebook**
-Follow one of the options:
-	* https://www.youtube.com/watch?v=AuTkAWEa06E&ab_channel=HongLy
-or
-	* https://test-jupyter.readthedocs.io/en/latest/install.html
+		
+		Follow one of the options:
+			* https://www.youtube.com/watch?v=AuTkAWEa06E&ab_channel=HongLy
+		or
+			* https://test-jupyter.readthedocs.io/en/latest/install.html
 
 
 	**2.	Set up Twitter data collection requirements**
@@ -103,7 +104,7 @@ or
 
 ### Week 1 - APIs
 Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
-Please create a GitHub accounts.
+Please create a GitHub account.
 
 	**Read**
 	
@@ -112,8 +113,7 @@ Please create a GitHub accounts.
 
 	**1. Set up YouTube data collection requirements**
 
-		* Read: https://towardsdatascience.com/an-easy-python-wrapper-for-youtube-data-api-3-0-a0f1b9f4c964
-to get started with YouTube data collection
+		* Read: https://towardsdatascience.com/an-easy-python-wrapper-for-youtube-data-api-3-0-a0f1b9f4c964 to get started with YouTube data collection
 
 		* Get a YouTube API key
 
@@ -178,8 +178,7 @@ to get started with YouTube data collection
 
 			* What kind of data do you need to answer these questions? For what time period? From how many sources? How will you get it?
 
-			* Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does
-the data represent all relevant groups, including those often marginalized?
+			* Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does the data represent all relevant groups, including those often marginalized?
 
 			* If you are filtering, subsampling, or selecting from the original data, is the remaining subset representative? Can you describe how selective removal alters the data and the interpretation of the data? Are you losing anything that might be valuable at a later stage?
 
