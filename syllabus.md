@@ -101,15 +101,15 @@ Isentia Workbench: https://workbench.brandtology.com/
 
 
 
-### Week 1 - APIS
+### Week 1 - APIs
 Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
 Please create a GitHub accounts.
 
 
 **1. Set up YouTube data collection requirements**
 
-a.	Read: https://towardsdatascience.com/how-to-build-your-own-dataset-of-youtube-comments-39a1e57aade 
-Follow the steps in the article in Step 1 until Step 7
+a.	Read: https://towardsdatascience.com/an-easy-python-wrapper-for-youtube-data-api-3-0-a0f1b9f4c964
+to get started with YouTube data collection
 
 b.	Get a YouTube API key
 
@@ -119,12 +119,7 @@ c.	Install the YouTube python package
 
 a.	Read and install the packages mentioned in https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8
 
-**3. Set up newspaper API collection requirements**
-
-a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
-
-
-**4. Create your own documentation (DUE WEEK 3)**
+**3. Create your own documentation (DUE WEEK 3)**
 
 a. Choose the data source you want to work with, e.g., TikTok, Weibo
 
@@ -141,23 +136,75 @@ Mukerjee, S., & Gonzl̀ez-Bailn̤, S. (2020). Social Media Data: Quantitative An
 
 ### Week 2 - APIs continued
 
+Readings: 
+
+Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62.
+
+
 **1. Corpus compilation**
 
-a. Extracting text from structured data
+a. Explore the Twitter and Facebook notebooks
 
 b. Using APIs to compile a corpus (e.g. Twitter)
 
-c. Readings: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
-	
-
-**2. Write code to read json files and write CSV files (DUE WEEK 4)**
-
-a. Use the "Common How Tos" at https://thepythonguru.com/
+c. Explore the part of code in the notebooks that converts JSON to CSV. Can you try to add more fields to be written into the csv in to the "append_to_csv" command?
 
 
-	
-**3. First-time Python user? Start here**
+
+
+**2. Set up newspaper API and think about what data you want to collect**
+
+a.	Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
+
+b. As in the above article, sign up to get an API at https://developer.nytimes.com/
+
+c. Sign up to get an API key with https://newsapi.org/
+
+d. Sign up to get an API key with https://mediacloud.org/
+
+e. Try out all the notebooks: N1, N2, MC00a, MC00b, MC01
+
+**3. Plan your research design before collecting your data (DUE on DEC 4)**
+
+a.	Answer the following questions, which you will address in your next week as you collect data (taken from this week's reading!): 
+
+Research questions: 
+i. What are your research questions and hypotheses? Is this an interesting problem to study? Why?
+
+ii. Why is computational text analysis necessary or valuable for answering the research questions?
+
+
+Data:
+i. What kind of data do you need to answer these questions? For what time period? From how many sources? How will you get it?
+
+ii. Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does
+the data represent all relevant groups, including those often marginalized?
+
+iii. If you are filtering, subsampling, or selecting from the original data, is the remaining subset representative? Can you describe how selective removal alters the data and the interpretation of the data? Are you losing anything that might be valuable at a later stage?
+
+
+Operationalization:
+
+i. Which units of text are most suited to capturing the concepts?
+
+ii. Which textual pre-processing steps are appropriate for your task and data? What information gets lost with each preprocessing
+step, and what is gained? What errors maybe introduced? 
+
+iii. Which text analysis steps might be appropriate to answer your question? 
+
+
+** (OPTIONAL) First-time Python user? Start here**
 
 a. Watch the video (30 minutes): https://www.youtube.com/watch?v=Z1Yd7upQsXY&ab_channel=CSDojo
 
 b. Bookmark this, do one chapter a week: https://python.swaroopch.com/
+
+
+
+### Week 3 - Data collection and information extraction
+
+**1. Create a fresh notebook to document how you collect your data from each API you use.**
+
+**2. Try out the notebooks for data analysis (TBD)**
+
+
