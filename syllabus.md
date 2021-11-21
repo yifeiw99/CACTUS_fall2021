@@ -140,7 +140,7 @@ Please create a GitHub account.
 
 	**Read**
 
-	Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62.
+	Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62. Available in the resources folder.
 
 
 	**1. Corpus compilation**
@@ -202,9 +202,9 @@ Please create a GitHub account.
 
 ### Week 3 - Data collection and Identify, retrieve and prepare a relevant corpus
 
-**1. Create a fresh notebook to document how you collect your data from each API you use (DUE ON DEC 4).**
+	**1. Create a fresh notebook to document how you collect your data from each API you use (DUE ON DEC 4).**
 
-**2. Try out the notebooks for data analysis (TBD)**
+	**2. Try out the notebooks for data analysis (TBD)**
 
 
 
