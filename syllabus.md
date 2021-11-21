@@ -134,7 +134,7 @@ to get started with YouTube data collection
 Mukerjee, S., & Gonzl̀ez-Bailn̤, S. (2020). Social Media Data: Quantitative Analysis. SAGE Publications Limited. Available here: 
 
 
-### Week 2 - APIs continued
+### Week 2 - APIs continued + Decide upon a tractable research question that involves analysis of textual data
 
 Readings: 
 
@@ -200,10 +200,43 @@ step, and what is gained? What errors maybe introduced?
 
 
 
-### Week 3 - Data collection and information extraction
+### Week 3 - Data collection and Identify, retrieve and prepare a relevant corpus
 
 **1. Create a fresh notebook to document how you collect your data from each API you use (DUE ON DEC 4).**
 
 **2. Try out the notebooks for data analysis (TBD)**
+
+
+
+
+### Week 4 - Carry out sentiment analysis of corpus
+
+
+### Week 5 - Carry out sentiment analysis of corpus (contd)
+
+
+### Week 6 - Carry out topic analysis of corpus
+
+
+### Week 7 - Carry out topic analysis of corpus (contd)
+
+
+### Week 8 - Aggregate annd visualize data as a time series
+
+
+### Week 9 - Time series analysis: Granger causality
+
+
+### Week 10 - Time series analysis: Interrupted time series
+
+
+### Week 11 - Writing up the method and interpreting the findings
+
+
+### Week 12 - Advanced topics: Social network analysis
+
+
+### Week 13 - Advanced topics: machine learning
+
 
 
