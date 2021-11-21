@@ -70,34 +70,34 @@ A central goal of this class is to help students begin to develop programming sk
 **Orientation day prerequisites (Do by Nov 13):**
 Before class, please do Step 1 and 2. It should take you about 2-3 hours at the most. If you have any trouble in these steps, we will discuss it in the tutorial
 
-**1.	Install Python, Anaconda, Jupyter Notebook**
+	**1.	Install Python, Anaconda, Jupyter Notebook**
 Follow one of the options:
-   * https://www.youtube.com/watch?v=AuTkAWEa06E&ab_channel=HongLy
+	* https://www.youtube.com/watch?v=AuTkAWEa06E&ab_channel=HongLy
 or
-   * https://test-jupyter.readthedocs.io/en/latest/install.html
+	* https://test-jupyter.readthedocs.io/en/latest/install.html
 
 
-**2.	Set up Twitter data collection requirements**
+	**2.	Set up Twitter data collection requirements**
 
-   * Read: 
+		* Read: 
 
-       * https://towardsdatascience.com/getting-started-with-data-collection-using-twitter-api-v2-in-less-than-an-hour-600fbd5b5558
+			* https://towardsdatascience.com/getting-started-with-data-collection-using-twitter-api-v2-in-less-than-an-hour-600fbd5b5558
 
-       * https://medium.com/geekculture/how-to-get-twitter-data-with-tweepy-4663fbc8b90b
+			* https://medium.com/geekculture/how-to-get-twitter-data-with-tweepy-4663fbc8b90b
 
-   * Explore the process to apply for a Twitter developer key following the reading linked in 2.a.ii. If you don’t have a Twitter developer account yet, write up an imaginary research project like this: https://www.dropbox.com/s/2b735yqa1h6utbt/Twitter_example_application.pdf?dl=0
+		* Explore the process to apply for a Twitter developer key following the reading linked in 2.a.ii. If you don’t have a Twitter developer account yet, write up an imaginary research project like this: https://www.dropbox.com/s/2b735yqa1h6utbt/Twitter_example_application.pdf?dl=0
 
-   * If you are clear on your research project already, then you can apply for a Twitter Developer account. Be as detailed as possible in describing your research project, and clarify your university and who is your mentor. Link their Google Scholar profile: https://developer.twitter.com/en/apply-for-access
+		* If you are clear on your research project already, then you can apply for a Twitter Developer account. Be as detailed as possible in describing your research project, and clarify your university and who is your mentor. Link their Google Scholar profile: https://developer.twitter.com/en/apply-for-access
 
-   * If you are not clear, then just start drafting out your application and we will talk about it in class
+		* If you are not clear, then just start drafting out your application and we will talk about it in class
 
 
-**3.	In class**
+	**3.	In class**
 
-   * We will go over your problems
+		* We will go over your problems
 
-   * We will simply explore: (note that this is restricted use for only the students enrolled in this tutorial. Please do not share further or use without permission)
-Isentia Workbench: https://workbench.brandtology.com/
+		* We will simply explore: (note that this is restricted use for only the students enrolled in this tutorial. Please do not share further or use without permission)
+		Isentia Workbench: https://workbench.brandtology.com/
 
 
 
@@ -105,98 +105,99 @@ Isentia Workbench: https://workbench.brandtology.com/
 Create separate Jupyter notebooks for each of Step 1,2, and 3. We are just getting warmed up at the moment to understand and explore the different kinds of APIs. 
 Please create a GitHub accounts.
 
+	**Read**
+	
+	Mukerjee, S., & Gonzl̀ez-Bailn̤, S. (2020). Social Media Data: Quantitative Analysis. SAGE Publications Limited. Available in the resources folder.
 
-**1. Set up YouTube data collection requirements**
 
-   * Read: https://towardsdatascience.com/an-easy-python-wrapper-for-youtube-data-api-3-0-a0f1b9f4c964
+	**1. Set up YouTube data collection requirements**
+
+		* Read: https://towardsdatascience.com/an-easy-python-wrapper-for-youtube-data-api-3-0-a0f1b9f4c964
 to get started with YouTube data collection
 
-   * Get a YouTube API key
+		* Get a YouTube API key
 
-   * Install the YouTube python package
+		* Install the YouTube python package
 
-**2. Set up Reddit data collection requirements**
+	**2. Set up Reddit data collection requirements**
 
-   * Read and install the packages mentioned in https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8
+		* Read and install the packages mentioned in https://medium.com/mcd-unison/using-pushshift-api-for-data-analysis-on-reddit-b08d339c48b8
 
-**3. Create your own documentation (DUE WEEK 3)**
+	**3. Create your own documentation (DUE WEEK 3)**
 
-   * Choose the data source you want to work with, e.g., TikTok, Weibo
+		* Choose the data source you want to work with, e.g., TikTok, Weibo
 
-   * Create a list of resources for this data source (links to how to apply for an API key, which python packages to use, existing code repositorities) 
+		* Create a list of resources for this data source (links to how to apply for an API key, which python packages to use, existing code repositorities) 
 
-   * If one already exists, use it but build on it.
+		* If one already exists, use it but build on it.
 
-**5. Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
+	**4. Start brainstorming on ideas for the research problem and the data source which you want to explore in your final project**
 
 
-**Read**
-Mukerjee, S., & Gonzl̀ez-Bailn̤, S. (2020). Social Media Data: Quantitative Analysis. SAGE Publications Limited. Available here: 
 
 
 ### Week 2 - APIs continued + Decide upon a tractable research question that involves analysis of textual data
 
-Readings: 
+	**Read**
 
-Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62.
-
-
-**1. Corpus compilation**
-
-   * Explore the Twitter and Facebook notebooks
-
-   * Using APIs to compile a corpus (e.g. Tweets by a set of users, All Facebook posts by a news outlet)
-
-   * Explore the part of code in the notebooks that converts JSON to CSV. Can you try to add more fields to be written into the csv in to the "append_to_csv" command?
+	Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62.
 
 
-**2. Set up newspapers APIs and think about what data you want to collect**
+	**1. Corpus compilation**
+	
+		* Explore the Twitter and Facebook notebooks
 
-   * Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
+		* Using APIs to compile a corpus (e.g. Tweets by a set of users, All Facebook posts by a news outlet)
 
-   * As in the above article, sign up to get an API at https://developer.nytimes.com/
-
-   * Sign up to get an API key with https://newsapi.org/
-
-   * Sign up to get an API key with https://mediacloud.org/
-
-   * Try out all the notebooks: N1, N2, MC00a, MC00b, MC01
-
-**3. Plan your research design before collecting your data (DUE on DEC 4)**
-
-   * Answer the following questions, which you will address in your next week as you collect data (taken from this week's reading!): 
-
-   * Research questions: 
-
-       * What are your research questions and hypotheses? Is this an interesting problem to study? Why?
-
-       * Why is computational text analysis necessary or valuable for answering the research questions?
+		* Explore the part of code in the notebooks that converts JSON to CSV. Can you try to add more fields to be written into the csv in to the "append_to_csv" command?
 
 
-   * Data:
+	**2. Set up newspapers APIs and think about what data you want to collect**
 
-       * What kind of data do you need to answer these questions? For what time period? From how many sources? How will you get it?
+		* Read and follow the steps at: https://towardsdatascience.com/scraping-news-and-articles-from-public-apis-with-python-be84521d85b9
 
-       * Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does
+		* As in the above article, sign up to get an API at https://developer.nytimes.com/
+
+		* Sign up to get an API key with https://newsapi.org/
+
+		* Sign up to get an API key with https://mediacloud.org/
+
+		* Try out all the notebooks: N1, N2, MC00a, MC00b, MC01
+
+	**3. Plan your research design before collecting your data (DUE on DEC 4)**
+
+		* Answer the following questions, which you will address in your next week as you collect data (taken from this week's reading!): 
+
+		* Research questions: 
+
+			* What are your research questions and hypotheses? Is this an interesting problem to study? Why?
+
+			* Why is computational text analysis necessary or valuable for answering the research questions?
+
+		* Data:
+
+			* What kind of data do you need to answer these questions? For what time period? From how many sources? How will you get it?
+
+			* Are sources representative? Are they disproportionately of one form? Are all relevant time windows covered? Does
 the data represent all relevant groups, including those often marginalized?
 
-       * If you are filtering, subsampling, or selecting from the original data, is the remaining subset representative? Can you describe how selective removal alters the data and the interpretation of the data? Are you losing anything that might be valuable at a later stage?
+			* If you are filtering, subsampling, or selecting from the original data, is the remaining subset representative? Can you describe how selective removal alters the data and the interpretation of the data? Are you losing anything that might be valuable at a later stage?
 
-   * Operationalization:
+		* Operationalization:
 
-       * Which units of text are most suited to capturing the concepts?
+			* Which units of text are most suited to capturing the concepts?
 
-       * Which textual pre-processing steps are appropriate for your task and data? What information gets lost with each preprocessing
-step, and what is gained? What errors maybe introduced? 
+			* Which textual pre-processing steps are appropriate for your task and data? What information gets lost with each preprocessing step, and what is gained? What errors maybe introduced? 
 
-       * Which text analysis steps might be appropriate to answer your question? 
+			* Which text analysis steps might be appropriate to answer your question? 
 
 
-** (OPTIONAL) First-time Python user? Start here**
+	** (OPTIONAL) First-time Python user? Start here**
 
-   * Watch the video (30 minutes): https://www.youtube.com/watch?v=Z1Yd7upQsXY&ab_channel=CSDojo
+		* Watch the video (30 minutes): https://www.youtube.com/watch?v=Z1Yd7upQsXY&ab_channel=CSDojo
 
-   * Bookmark this, do one chapter a week: https://python.swaroopch.com/
+		* Bookmark this, do one chapter a week: https://python.swaroopch.com/
+
 
 
 
