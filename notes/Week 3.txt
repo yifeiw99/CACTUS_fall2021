@@ -1,0 +1,33 @@
+Chapter 2
+
+nltk
+8:53
+spacy
+8:53
+pre-written code which lets you do complex things in a single line
+8:54
+pip install nltk
+8:54
+pip install spacy
+8:56
+sleep
+8:56
+sleeping
+8:56
+sleeps
+   
+8:56
+sleep*
+8:58
+words,tokens, sentences,lemmas,ngrams (phrases: 2 or 3 word phrases)
+8:59
+how many times people say "happy"
+8:59
+"no thanks"
+9:00
+PHRASES you can understand the context better
+We can better understand who is being thanked.
+Due in two weeks: interesting insights from data based on Week 3 01 notebook
+
+https://www.hedonometer.org/timeseries/en_all/?from=2020-06-04&to=2021-12-03
+Adding one more dimension to the visualization
