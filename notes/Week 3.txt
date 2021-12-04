@@ -31,3 +31,11 @@ Due in two weeks: interesting insights from data based on Week 3 01 notebook
 
 https://www.hedonometer.org/timeseries/en_all/?from=2020-06-04&to=2021-12-03
 Adding one more dimension to the visualization
+
+
+Action item:
+1. Do the questions under Week 2: Plan your research design before collecting your data  Dec 11
+2. Do the Week 3 notebook
+3. Read Chapter 2 of the book in resources folder
+4. For Yifei: catch up on Twitter notebooks and discuss scope
+5. For Haodong: try the Weibo scripts
