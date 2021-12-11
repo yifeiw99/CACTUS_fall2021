@@ -1,0 +1,19 @@
+Yi Ting:
+errors
+df2['year']=df2['date'][0:4]
+
+Haodong:
+How to make it work with Chinese corpus
+https://github.com/jsrpy/Chinese-NLP-Jieba/blob/master/jieba_intro.ipynb
+
+Target-level sentiment analysis
+
+time-range of filtering
+challenge: the number of sentimentw ords is fews
+try out: dependency parses
+last stuff in the week 4 02 notebok
+use something more than sentiment to identify the AFFECT
+bigger dictionaries ANEW
+https://dr.ntu.edu.sg/bitstream/10356/145624/2/The%20annotated%20Lexicon%20of%20Chinese%20emotion%20words.pdf
+
+

@@ -224,6 +224,8 @@ Please create a GitHub account.
 
 	Walter, D., Ophir, Y., & Jamieson, K. H. (2020). Russian Twitter accounts and the partisan polarization of vaccine discourse, 2015–2017. American Journal of Public Health, 110(5), 718-724.
 
+	Walter, D., & Ophir, Y. (2019). The Elephant and the Bird: Republican Candidates' Use of Strategy and Issue Framing in Twitter During the 2016 Republican Presidential Primaries. International Journal of Communication (19328036), 13.
+
 
 	**1. Explore the notebooks for this week
 
