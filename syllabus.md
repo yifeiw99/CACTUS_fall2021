@@ -228,6 +228,8 @@ Please create a GitHub account.
 
 	Salganik, M. J. (2019). Bit by bit: Social research in the digital age. Princeton University Press. Chapter 2.
 
+	Di Caro, L., & Grella, M. (2013). Sentiment analysis via dependency parsing. Computer Standards & Interfaces, 35(5), 442-453.
+
 
 	**1. Explore the notebooks for this week
 
