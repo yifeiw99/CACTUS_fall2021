@@ -230,6 +230,8 @@ Please create a GitHub account.
 
 	Di Caro, L., & Grella, M. (2013). Sentiment analysis via dependency parsing. Computer Standards & Interfaces, 35(5), 442-453.
 
+	Pang, Y., Jia, Y., Li, A., Song, D., & He, R. (2016). Influence of dependency parsing on the prosody of Chinese discourse. In Proceedings of speech prosody.
+
 
 	**1. Explore the notebooks for this week
 
