@@ -226,6 +226,8 @@ Please create a GitHub account.
 
 	Walter, D., & Ophir, Y. (2019). The Elephant and the Bird: Republican Candidates' Use of Strategy and Issue Framing in Twitter During the 2016 Republican Presidential Primaries. International Journal of Communication (19328036), 13.
 
+	Salganik, M. J. (2019). Bit by bit: Social research in the digital age. Princeton University Press. Chapter 2.
+
 
 	**1. Explore the notebooks for this week
 
