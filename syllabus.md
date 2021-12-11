@@ -202,23 +202,45 @@ Please create a GitHub account.
 
 ### Week 3 - Data collection and Identify, retrieve and prepare a relevant corpus
 
-	**1. Create a fresh notebook to document how you collect your data from each API you use (DUE ON DEC 4).**
+	**Read**
 
-	**2. Try out the notebooks for data analysis (TBD)**
-
-
+	Hovy, D. (2020). Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press. Chapter 2
 
 
-### Week 4 - Carry out sentiment analysis of corpus
+	**1. Explore the visualization: http://www.data-nomadic.com/03-01-19 (Thanks Jacob Parelman!) 
+
+	**2. Explore the data behind the visualization (see this week's notebook, 01.exploring_the_oscars_speeches_corpus.ipynb)
+
+	**3. Together with the chapter use, the notebook to understand words, phrases and tokens**
+
+	**4. Try out the notebooks with your own data**
+
+	**5. Complete the Step 3 under Week 2 (Plan your research design before collecting your data) and report in class**
 
 
-### Week 5 - Carry out sentiment analysis of corpus (contd)
+### Week 4 - Progress report and other interesting content: entities, hashtags, mentions, and URLs
+
+	**Read**
+
+	Hovy, D. (2020). Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press.
 
 
-### Week 6 - Carry out topic analysis of corpus
+	**1. Explore the notebooks for this week
+
+	**2. Identify what kind of information you want to collect to fulfill your research objectives
+
+	**3. What do you need to do to get it?**
+
+	**4. Report on progress next week**
 
 
-### Week 7 - Carry out topic analysis of corpus (contd)
+### Week 5 - Temporal analysis
+
+
+### Week 6 - Sentiment analysis
+
+
+### Week 7 - Topic analysis
 
 
 ### Week 8 - Aggregate annd visualize data as a time series
