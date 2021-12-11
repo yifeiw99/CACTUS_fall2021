@@ -222,7 +222,7 @@ Please create a GitHub account.
 
 	**Read**
 
-	Hovy, D. (2020). Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press.
+	Bucy, E. P., Foley, J. M., Lukito, J., Doroshenko, L., Shah, D. V., Pevehouse, J. C., & Wells, C. (2020). Performing populism: Trump’s transgressive debate style and the dynamics of Twitter response. New Media & Society, 22(4), 634-658.
 
 
 	**1. Explore the notebooks for this week
