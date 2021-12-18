@@ -242,10 +242,20 @@ Please create a GitHub account.
 	**4. Report on progress next week**
 
 
-### Week 5 - Temporal analysis
+### Week 6 - Discussion and presentation planning
+	
+	You will discuss with each other, plan and get feedback what you will present about your data. It doesn't need to be your final research question, just an intermittent step that is currently possible with what you have learnt.
+
+	Keep in mind: the prompts of Week 2.
+	
+	Consider what analysis you want to do to answer your research question (entities? Sentiment? Phrases? Word cloud?) 
+
+	What are the challenges you expect to face? How will you try to solve them? Can you help each other?
+
+	In a 7 minute presentation next time, present the Research Problem, Research Question, Data, and Insights that answer or come close to answering the question. 
 
 
-### Week 6 - Sentiment analysis
+### Week 7 - Presentations and Sentiment analysis (26th Dec)
 
 	**Read**
 
@@ -254,25 +264,24 @@ Please create a GitHub account.
 	Khosla, S., Chhaya, N., Jindal, S., Saha, O., & Srivastava, M. (2019, November). Do events change opinions on social media? Studying the 2016 US Presidential debates. In International Conference on Social Informatics (pp. 287-297). Springer, Cham.
 
 
-### Week 7 - Topic analysis
+### Week 8 - Topic analysis
 
 
-### Week 8 - Aggregate annd visualize data as a time series
+### Week 9 - Aggregate annd visualize data as a time series
 
 
-### Week 9 - Time series analysis: Granger causality
+### Week 10 - Time series analysis: Granger causality
 
 
-### Week 10 - Time series analysis: Interrupted time series
+### Week 11 - Time series analysis: Interrupted time series
 
 
-### Week 11 - Writing up the method and interpreting the findings
+### Week 12 - Writing up the method and interpreting the findings
 
 
-### Week 12 - Advanced topics: Social network analysis
+### Week 13 - Advanced topics: Social network analysis, machine learning
 
 
-### Week 13 - Advanced topics: machine learning
 
 
 
