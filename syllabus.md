@@ -290,13 +290,16 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
 
+	Just read: LDA on the Texts of Harry Potter. https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5.
+
+	Just read first: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
 
 	** 1. There are two main methods of topic modeling in these resources. Step 1 to 11 remain the same in all cases.
 
 	** 2. Run the notebook till step 11. Pay attention to step 11. What is stored in id2word, texts, and corpus? Can you understand what corpus is representing? Try to run it with the data given, or you can try the descriptions of column of the wine file.
 
 	** wine = pd.read_csv("archive/winemag-data_first150k.csv")
-
 
 	** 4. Now run step 11 to 15. 
 
