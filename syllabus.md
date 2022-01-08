@@ -257,11 +257,6 @@ Please create a GitHub account.
 
 ### Week 7 - Presentations and Sentiment analysis (26th Dec)
 
-	**Read**
-
-	Bucy, E. P., Foley, J. M., Lukito, J., Doroshenko, L., Shah, D. V., Pevehouse, J. C., & Wells, C. (2020). Performing populism: Trump’s transgressive debate style and the dynamics of Twitter response. New Media & Society, 22(4), 634-658.
-
-	Khosla, S., Chhaya, N., Jindal, S., Saha, O., & Srivastava, M. (2019, November). Do events change opinions on social media? Studying the 2016 US Presidential debates. In International Conference on Social Informatics (pp. 287-297). Springer, Cham.
 
 
 ### Week 8 - Topic analysis
@@ -288,8 +283,6 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	Atkins, D. C., Rubin, T. N., Steyvers, M., Doeden, M. A., Baucom, B. R., & Christensen, A. (2012). Topic models: A novel method for modeling couple and family text data. Journal of family psychology, 26(5), 816.
 
-	Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
-
 	Just read: LDA on the Texts of Harry Potter. https://towardsdatascience.com/basic-nlp-on-the-texts-of-harry-potter-topic-modeling-with-latent-dirichlet-allocation-f3c00f77b0f5.
 
 	Just read first: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
@@ -309,8 +302,16 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 ### Week 9 - Sentiment analysis
 
+	**Read**
+
+	Bucy, E. P., Foley, J. M., Lukito, J., Doroshenko, L., Shah, D. V., Pevehouse, J. C., & Wells, C. (2020). Performing populism: Trump’s transgressive debate style and the dynamics of Twitter response. New Media & Society, 22(4), 634-658.
+
+	Khosla, S., Chhaya, N., Jindal, S., Saha, O., & Srivastava, M. (2019, November). Do events change opinions on social media? Studying the 2016 US Presidential debates. In International Conference on Social Informatics (pp. 287-297). Springer, Cham.
+
 
 ### Week 10 - Aggregate annd visualize data in different ways
+
+	**Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
 
 
 ### Week 11 - Time series analysis: Interrupted time series
