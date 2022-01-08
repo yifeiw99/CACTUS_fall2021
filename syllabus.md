@@ -266,11 +266,48 @@ Please create a GitHub account.
 
 ### Week 8 - Topic analysis
 
+From the Towards Data Science blog: LDA is a generative probabilistic model that assumes each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.
 
-### Week 9 - Aggregate annd visualize data as a time series
+We can describe the generative process of LDA as, given the M number of documents, N number of words, and prior K number of topics, the model trains to output:
+
+psi, the distribution of words for each topic K
+
+phi, the distribution of topics for each document i
 
 
-### Week 10 - Time series analysis: Granger causality
+Parameters of LDA
+
+Alpha parameter is Dirichlet prior concentration parameter that represents document-topic density — with a higher alpha, documents are assumed to be made up of more topics and result in more specific topic distribution per document.
+
+Beta parameter is the same prior concentration parameter that represents topic-word density — with high beta, topics are assumed to made of up most of the words and result in a more specific word distribution per topic.
+
+
+	**Read**
+
+	Hovy, D. (2020). Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press. Chapter 9
+
+	Atkins, D. C., Rubin, T. N., Steyvers, M., Doeden, M. A., Baucom, B. R., & Christensen, A. (2012). Topic models: A novel method for modeling couple and family text data. Journal of family psychology, 26(5), 816.
+
+	Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
+
+
+	** 1. There are two main methods of topic modeling in these resources. Step 1 to 11 remain the same in all cases.
+
+	** 2. Run the notebook till step 11. Pay attention to step 11. What is stored in id2word, texts, and corpus? Can you understand what corpus is representing? Try to run it with the data given, or you can try the descriptions of column of the wine file.
+
+	** wine = pd.read_csv("archive/winemag-data_first150k.csv")
+
+
+	** 4. Now run step 11 to 15. 
+
+	** 5. The second method is using MALLET. Now try Step 16 onwards.
+
+	** 6. Run the notebook on your data. Where do you get stuck? Try to make it all the way to Step 21.
+
+### Week 9 - Sentiment analysis
+
+
+### Week 10 - Aggregate annd visualize data in different ways
 
 
 ### Week 11 - Time series analysis: Interrupted time series
