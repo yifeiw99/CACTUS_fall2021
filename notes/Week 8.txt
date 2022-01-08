@@ -1,0 +1,91 @@
+Every document is made up of topics
+
+Every topic is made up of words
+
+Topic modeling imagines that when we want to write about a topic, we think about the words that are likely to be used with that topic. 
+
+ASSUMPTION: Words have an association with topics (not with each other)
+
+eg: the word TRUMP is likely to be used in political topics.
+the word BTS or PINK is likely to be used in entertainment topics
+
+
+TO PREPARE DATA FOR TOPIC MODELING
+
+WE NEED A LIST OF WORDS IN THE DATA
+
+blackberry cassis caramel chocolate fruit fig  oak red-cherry vanilla
+
+WE NEED TO KNOW WHICH WORDS OCCUR IN WHICH DOCUMENT
+TERM DOCUMENT MATRIX identifies whether the word exists in the document 
+
+first row in the matrix is about your first row in the data. it has the word caramel, so the second term is 1.
+
+[(0,0),(0,0), (0,1)
+(1)]
+FOOD 1:
+
+THEN THE ALGORITHM DOES ITS PROBABILITY MAGIC
+
+TO FIND OUT THE BETA VALUE OR THE PROBABILITY OF EVERY WORD IN A TOPIC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PR
+
+
+FOOD EXAMPLE
+chocolate chip more likely to be found in ice cream than curry
+
+so in the wild, in any food, if i find chocolate chip, more likely i am eating ice cream than curry.
+
+
+
+TOPIC MODELING ON 
+INPUT: 
+10 KINDS OF DISHES
+every dish has how many topics
+every dish has how many ingredients (words)
+
+
+TOPIC#1: chocolate chip, milk, vanilla, ice, chocolate sauce, sprinkles
+
+TOPIC#2: chicken, turmeric, milk, spices, tomato, onions
+
+
+IMAGINE A NEW FOOD COMES IN AND I NEED TO FIND ITS TOPIC DISTRIBUTION.
+
+IT HAS 6 INGREDIENTS.
+
+MY TOPIC MODEL TELLS ME THAT 5 OF THOSE INGREDIENTS ARE LIKELY TO BE FOUND IN ICE CREAM
+
+1 OF THOSE IS LIKELY TO BE FOUND IN CURRY
+
+THEREFORE:
+5/6 OF THE FOOD IS ICE CREAM
+1/6 OF THE FOOD IS CURRY
