@@ -255,7 +255,7 @@ Please create a GitHub account.
 	In a 7 minute presentation next time, present the Research Problem, Research Question, Data, and Insights that answer or come close to answering the question. 
 
 
-### Week 7 - Presentations and Sentiment analysis (26th Dec)
+### Week 7 - Presentations
 
 
 
