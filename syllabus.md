@@ -300,18 +300,54 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	** 6. Run the notebook on your data. Where do you get stuck? Try to make it all the way to Step 21.
 
-### Week 9 - Sentiment analysis
+### Week 9 - Topic distributions, visualization, and MALLET
+
+	Continued from last week:
+
+	1. Model tweaking:
+		
+		a. Learn to save your model and files after POS-tagging so that you don't need to rerun:
+			import json
+			with open(‘your_file.txt’, ‘w’) as f:
+    		for item in data_lemmatized:
+        		f.write(“%s\n” % item)
+
+        	Then when you reopen your notebook, you can read the file into a variable and you are good to go.
+
+		b. Filter out the verbs and see whether it helps with quality
+
+		c. Change the number of topics and see whether it helps with quality. Note the perplexity and coherence with different settings.
+
+	2. Code for the topic distribution per social media post: https://github.com/storopoli/topic-modelling/blob/master/Notebooks/gensim-topic-modeling-visualization.ipynb
+	
+		The relevant code starts at "What is the Dominant topic and its percentage contribution in each document". You can copy the code into new cells into your existing notebook. First from the menu bar click "insert"->"insert cell below" and then paste the new code into a new cell
+
+	3. I will add code to run MALLET directly (without the gensim wrapper) and share it with you all.
+
+	4. Resources for Chinese topic modeling: Read the paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
+
+	5. Other visualizations: 
+
+		a. Bar plots: See ideas at https://kokiljaidka.files.wordpress.com/2021/03/crowdtangle-shaheenbagh.pdf for labeling bar plots with example posts. How to find example posts? See the notebook above from storopoli. 
+	
+		b. Word clouds: https://github.com/amueller/word_cloud/tree/master/examples
+
+	READ
+	
+	**Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
+
+	**Cui, J., Zhang, T., Pang, D., Jaidka, K., Sherman, G., Jakhetiya, V., ... & Guntuku, S. C. (2021). Social Media Reveals Urban-Rural Differences in Stress across China. arXiv preprint arXiv:2110.15726. Available at https://arxiv.org/abs/2110.15726
+	
+
+
+### Week 10 - Sentiment analysis and Time series
+
 
 	**Read**
 
 	Bucy, E. P., Foley, J. M., Lukito, J., Doroshenko, L., Shah, D. V., Pevehouse, J. C., & Wells, C. (2020). Performing populism: Trump’s transgressive debate style and the dynamics of Twitter response. New Media & Society, 22(4), 634-658.
 
 	Khosla, S., Chhaya, N., Jindal, S., Saha, O., & Srivastava, M. (2019, November). Do events change opinions on social media? Studying the 2016 US Presidential debates. In International Conference on Social Informatics (pp. 287-297). Springer, Cham.
-
-
-### Week 10 - Aggregate annd visualize data in different ways
-
-	**Park, G., Yaden, D. B., Schwartz, H. A., Kern, M. L., Eichstaedt, J. C., Kosinski, M., ... & Seligman, M. E. (2016). Women are warmer but no less assertive than men: Gender and language on Facebook. PloS one, 11(5), e0155885.
 
 
 ### Week 11 - Time series analysis: Interrupted time series
