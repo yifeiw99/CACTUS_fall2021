@@ -324,7 +324,12 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	3. I will add code to run MALLET directly (without the gensim wrapper) and share it with you all.
 
-	4. Resources for Chinese topic modeling: Read the paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
+	4. Resources for Chinese topic modeling: 
+			a. Read the procedure in the Weibo paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
+
+			b. Check out Jieba topic modeling: https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f
+
+			c. Check out the procedure followed here: http://article.nadiapub.com/IJCA/vol9_no11/13.pdf
 
 	5. Other visualizations: 
 
