@@ -322,7 +322,7 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 	
 		The relevant code starts at "What is the Dominant topic and its percentage contribution in each document". You can copy the code into new cells into your existing notebook. First from the menu bar click "insert"->"insert cell below" and then paste the new code into a new cell
 
-	3. Code to run MALLET: https://github.com/maria-antoniak/little-mallet-wrapper
+	3. Code to run MALLET (check out demo.ipynb): https://github.com/maria-antoniak/little-mallet-wrapper
 
 	4. Resources for Chinese topic modeling: 
 			a. Read the procedure in the Weibo paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
