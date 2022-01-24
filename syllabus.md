@@ -345,9 +345,16 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 	
 
 
-### Week 10 - Sentiment analysis and Time series
+### Week 10 - Sentiment analysis
 
-
+	1. Try out https://github.com/dinbav/LeXmo 
+		
+		this uses the NRC dictionary of emotions to generate emotion scores for each row of text
+		
+		Explanation: https://betterprogramming.pub/unlocking-emotions-in-text-using-python-6d062b48d71f
+	
+	2. Apply it to your data!
+	
 	**Read**
 
 	Bucy, E. P., Foley, J. M., Lukito, J., Doroshenko, L., Shah, D. V., Pevehouse, J. C., & Wells, C. (2020). Performing populism: Trump’s transgressive debate style and the dynamics of Twitter response. New Media & Society, 22(4), 634-658.
