@@ -308,6 +308,12 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	Code used: https://github.com/maria-antoniak/little-mallet-wrapper
 
+	FIRST use topic_mod.ipynb to generate the "keys" of the topic. 
+
+	THEN use topic_mod_inference.ipynb to find the ditribution in your data, ie, which row has which topics.
+
+	Other notes:
+
 	Model tweaking:
 			a. Learn to save your model and files after POS-tagging so that you don't need to rerun:
 			import json
