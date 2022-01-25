@@ -304,9 +304,12 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 	Continued from last week:
 
-	1. Model tweaking:
-		
-		a. Learn to save your model and files after POS-tagging so that you don't need to rerun:
+	1. Topic modeling with MALLET code added to Notebooks folder!
+
+	Code used: https://github.com/maria-antoniak/little-mallet-wrapper
+
+	Model tweaking:
+			a. Learn to save your model and files after POS-tagging so that you don't need to rerun:
 			import json
 			with open(‘your_file.txt’, ‘w’) as f:
     		for item in data_lemmatized:
@@ -314,24 +317,25 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
         	Then when you reopen your notebook, you can read the file into a variable and you are good to go.
 
-		b. Filter out the verbs and see whether it helps with quality
+			b. Filter out the verbs and see whether it helps with quality
 
-		c. Change the number of topics and see whether it helps with quality. Note the perplexity and coherence with different settings.
+			c. Change the number of topics and see whether it helps with quality. Note the perplexity and coherence with different settings.
 
 	2. Code for the topic distribution per social media post: https://github.com/storopoli/topic-modelling/blob/master/Notebooks/gensim-topic-modeling-visualization.ipynb
 	
 		The relevant code starts at "What is the Dominant topic and its percentage contribution in each document". You can copy the code into new cells into your existing notebook. First from the menu bar click "insert"->"insert cell below" and then paste the new code into a new cell
 
-	3. Code to run MALLET (check out demo.ipynb): https://github.com/maria-antoniak/little-mallet-wrapper
+	3. Resources for Chinese topic modeling: 
+			
+			a. Translation: Translation notebook added to notebooks folder 
 
-	4. Resources for Chinese topic modeling: 
-			a. Read the procedure in the Weibo paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
+			b. Read the procedure in the Weibo paper below and explore : https://www.dropbox.com/sh/r6puasgfq1betli/AACOojkG_d_yxG-XaI5Lqs2Wa?dl=0 (I will add this to GitHub later)
 
-			b. Check out Jieba topic modeling: https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f
+			c. Check out Jieba topic modeling: https://towardsdatascience.com/chinese-natural-language-pre-processing-an-introduction-995d16c2705f
 
-			c. Check out the procedure followed here: http://article.nadiapub.com/IJCA/vol9_no11/13.pdf
+			d. Check out the procedure followed here: http://article.nadiapub.com/IJCA/vol9_no11/13.pdf
 
-	5. Other visualizations: 
+	4. Other visualizations: 
 
 		a. Bar plots: See ideas at https://kokiljaidka.files.wordpress.com/2021/03/crowdtangle-shaheenbagh.pdf for labeling bar plots with example posts. How to find example posts? See the notebook above from storopoli. 
 	
