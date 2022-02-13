@@ -357,13 +357,13 @@ Beta parameter is the same prior concentration parameter that represents topic-w
 
 ### Week 10 - Sentiment analysis
 
-	1. Try out https://github.com/dinbav/LeXmo 
-		
-		this uses the NRC dictionary of emotions to generate emotion scores for each row of text
-		
-		Explanation: https://betterprogramming.pub/unlocking-emotions-in-text-using-python-6d062b48d71f
+	1. Read the explanation: https://betterprogramming.pub/unlocking-emotions-in-text-using-python-6d062b48d71f
+
+	Try the code at the end!
 	
-	2. Apply it to your data!
+	2. Try generating LIWC features too. Use the notebook in Week 10. Change the "choice" variable in the last cell to "nrc" or "liwc" or "delib" or "hate". Explore the output file that is saved. It also includes some extra features that are generated in the last command. You can comment it out if you don't need that command.
+
+	3. Try it on your data!
 	
 	**Read**
 
