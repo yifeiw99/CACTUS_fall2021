@@ -1,0 +1,21 @@
+﻿Topic,Type,Mean,Std.Err
+WC,Digital news feed,12.01867094,6.020873069
+WC,Social media feed (Facebook),35.8190231,11.22347975
+affect,Digital news feed,4.36155117,2.573382397
+affect,Social media feed (Facebook),3.757419222,0.729220042
+posemo,Digital news feed,2.312853172,1.397587064
+posemo,Social media feed (Facebook),2.297807235,0.23559898
+negemo,Digital news feed,1.998085381,1.322057867
+negemo,Social media feed (Facebook),1.408199007,0.59292498
+anx,Digital news feed,0.337856915,0.210821745
+anx,Social media feed (Facebook),0.239099873,0.097189877
+anger,Digital news feed,0.80399629,0.60044549
+anger,Social media feed (Facebook),0.426924355,0.213782945
+sad,Digital news feed,0.35428479,0.221844189
+sad,Social media feed (Facebook),0.310156276,0.131091526
+focuspast,Digital news feed,0.956541212,0.644656287
+focuspast,Social media feed (Facebook),3.121920705,1.284046861
+focuspresent,Digital news feed,3.536836157,2.10471332
+focuspresent,Social media feed (Facebook),5.949863318,1.046505864
+focusfuture,Digital news feed,0.66541025,0.411548814
+focusfuture,Social media feed (Facebook),0.939381987,0.382627395
