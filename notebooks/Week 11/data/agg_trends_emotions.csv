@@ -1,19 +1,19 @@
 ﻿Topic,Type,Mean,Std.Err
-affect,Digital news feed,0.314430869,0.182355631
-affect,Social media feed (Facebook),0.613613312,0.126155754
-posemo,Digital news feed,0.177501933,0.102389721
-posemo,Social media feed (Facebook),0.444273107,0.088566667
-negemo,Digital news feed,0.163287716,0.106791989
-negemo,Social media feed (Facebook),0.304427724,0.125351786
-anx,Digital news feed,0.031270632,0.020111486
-anx,Social media feed (Facebook),0.068883075,0.02997089
-anger,Digital news feed,0.071344344,0.0530475
-anger,Social media feed (Facebook),0.111862483,0.052683498
-sad,Digital news feed,0.033077223,0.020545505
-sad,Social media feed (Facebook),0.088655734,0.040174133
-focuspast,Digital news feed,0.074467992,0.032738707
-focuspast,Social media feed (Facebook),0.510387939,0.200958238
-focuspresent,Digital news feed,0.273489162,0.161315808
-focuspresent,Social media feed (Facebook),0.759735581,0.063456027
-focusfuture,Digital news feed,0.062463779,0.038261049
-focusfuture,Social media feed (Facebook),0.228744023,0.094642699
+affect,Digital news feed,4.450150363,1.951404777
+posemo,Digital news feed,1.898444978,1.171206893
+negemo,Digital news feed,2.503687446,1.28684508
+anx,Digital news feed,0.433663103,0.337313862
+anger,Digital news feed,1.166657982,0.758038769
+sad,Digital news feed,0.376640952,0.325480664
+focuspast,Digital news feed,0.884411513,0.812413187
+focuspresent,Digital news feed,4.46560872,2.019171771
+focusfuture,Digital news feed,0.750433796,0.535584417
+affect,Social media feed (Facebook),10.81928169,2.701106053
+posemo,Social media feed (Facebook),6.303584101,1.730677779
+negemo,Social media feed (Facebook),4.367607237,1.255486635
+anx,Social media feed (Facebook),0.738322094,0.309215111
+anger,Social media feed (Facebook),1.363535581,0.504046592
+sad,Social media feed (Facebook),0.928149671,0.344553458
+focuspast,Social media feed (Facebook),9.472325329,3.051623679
+focuspresent,Social media feed (Facebook),17.2047295,3.894334582
+focusfuture,Social media feed (Facebook),2.889708991,0.894051865

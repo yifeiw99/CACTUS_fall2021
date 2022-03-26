@@ -1,23 +1,25 @@
 Topic,Type,Mean,Std.Err
-Crime,Digital news feed,16.97707924,11.21997783
-Culture,Digital news feed,9.959347419,17.95747176
-Death,Digital news feed,9.556453423,7.026627653
-Energy,Digital news feed,4.620535714,3.010500916
-Entertainment,Digital news feed,11.95411005,8.433188017
-Finance,Digital news feed,16.78176383,11.82443985
-International politics,Digital news feed,5.839019702,3.793268149
-Local politics,Digital news feed,3.8,4.8
-Mobility and Infrastructure,Digital news feed,4.754166667,9.179066262
-"Science, Technology, & Education",Digital news feed,15.65465533,17.80080396
-Social affairs,Digital news feed,0,0
-Crime,Social media feed (Facebook),9.562383816,6.798697993
-Culture,Social media feed (Facebook),1.837686206,1.177446955
-Death,Social media feed (Facebook),5.890078597,4.084616035
-Energy,Social media feed (Facebook),2.713378434,1.819035165
-Entertainment,Social media feed (Facebook),5.954876108,4.135329885
-Finance,Social media feed (Facebook),7.92360269,5.524347798
-International politics,Social media feed (Facebook),1.044850498,0.237110436
-Local politics,Social media feed (Facebook),4.882277147,3.386267829
-Mobility and Infrastructure,Social media feed (Facebook),2.187320345,1.477471413
-"Science, Technology, & Education",Social media feed (Facebook),3.649202733,2.624343264
-Social affairs,Social media feed (Facebook),10.10808445,7.435964505
+Crime,Digital news feed,40.64230769,28.9676793
+Culture,Digital news feed,41.20232558,56.35330455
+Death,Digital news feed,21.19292804,51.20052834
+Energy,Digital news feed,11.65349706,14.29000083
+Entertainment,Digital news feed,27.07293272,29.05945675
+Finance,Digital news feed,31.43032015,23.9177493
+International politics,Digital news feed,13.89325544,10.88261061
+Local politics,Digital news feed,24.92666343,29.25995155
+Mobility and Infrastructure,Digital news feed,10.66053512,15.51905915
+"Science, Technology, & Education",Digital news feed,3.672222222,3.293526501
+Social affairs,Digital news feed,51.30445423,41.81629657
+Sports,Digital news feed,1.891326022,1.276673313
+Crime,Social media feed (Facebook),48.6377607,14.013309
+Culture,Social media feed (Facebook),4.460795455,2.663771097
+Death,Social media feed (Facebook),28.3752057,9.272119821
+Energy,Social media feed (Facebook),8.350055127,4.004046147
+Entertainment,Social media feed (Facebook),29.12294182,9.616434685
+Finance,Social media feed (Facebook),39.68423943,10.52499478
+International politics,Social media feed (Facebook),12.28171334,4.708215934
+Local politics,Social media feed (Facebook),23.08616905,7.489090416
+Mobility and Infrastructure,Social media feed (Facebook),4.898705684,2.611884548
+"Science, Technology, & Education",Social media feed (Facebook),18.25726824,6.763137851
+Social affairs,Social media feed (Facebook),53.13234487,14.80360635
+Sports,Social media feed (Facebook),3.603575832,2.556227564
